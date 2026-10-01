@@ -1,4 +1,5 @@
 # LEGO Set Explorer | Power BI
+![LEGO Set](captura.png)
 
 ## Project Overview
 Interactive Power BI report designed to help users explore and compare
